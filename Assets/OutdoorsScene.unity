@@ -744,12 +744,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   obstaclePrefab: {fileID: 3678092310338829823, guid: 5dbb09eb795ecaa45bae3f1ce20e4d76, type: 3}
   spawnChance: 0.02
-  spawnMinX: -4
-  spawnMaxX: 4
+  spawnMinX: -2.5
+  spawnMaxX: 2.5
   spawnY: 1
   spawnZ: 1
   spawnRangeX: 5
-  minSpeed: 500
+  minSpeed: 750
   varSpeed: 1
 --- !u!1 &1823688464
 GameObject:
