@@ -18,7 +18,7 @@ public class ObstacleGeneratorBehaviour : MonoBehaviour
         spawnZ = transform.position.z;
     }
 
-    void Update()
+    void FixedUpdate()
     {
         if (Random.Range(0.0f, 1.0f) < spawnChance)
         {
