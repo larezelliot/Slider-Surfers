@@ -749,7 +749,7 @@ MonoBehaviour:
   spawnY: 1
   spawnZ: 1
   spawnRangeX: 5
-  minSpeed: 750
+  minSpeed: 3000
   varSpeed: 1
 --- !u!1 &1823688464
 GameObject:
